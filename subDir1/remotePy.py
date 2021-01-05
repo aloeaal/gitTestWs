@@ -1,2 +1,2 @@
 print("Welcome")
-"This file was created remotely"
+#This file was created remotely (corrected comment)
